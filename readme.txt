@@ -11,6 +11,10 @@ Player barra webradio é um plugin para que você possa inserir a url do player 
 1. Baixe e instale o plugin e, em seguida, ative.
 2. No painel de adminstração do Wordpress acesse CONFIGURAÇÕES->Player Barra Opções, informe a URL do seu player
 
+== Screenshots ==
+https://prnt.sc/lctm8w
+https://prnt.sc/lctmm3
+
 == Changelog ==
 
 = 0.9.0 =
